@@ -62,7 +62,7 @@ global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['212608031451']
-global.ownertag = '21270775631' //ur tag number
+global.ownertag = '212707756337' //ur tag number
 global.botname = 'BOT saad ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/JOtD8c7eglG3wcRkIx1vKx
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
